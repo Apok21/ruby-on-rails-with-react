@@ -1,6 +1,6 @@
-# Rails-Boggle-React
+# ROR-React
 
-Simple Boggle word game with Ruby on Rails and React JS.
+Simple app with Ruby on Rails and React JS.
 
 **Note**: This application was created on Windows 10 OS.
 
